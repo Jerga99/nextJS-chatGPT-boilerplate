@@ -1,6 +1,6 @@
 # Next JS with ChatGPT integration APP Example
 
-This is an example Next JS with ChatgPT integration app used in the Eincode Youtube Tutorial [youtube tutorial](https://youtu.be/dmM83DhzE98). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
+This is an example Next JS with ChatGPT integration app used in the Eincode Youtube Tutorial [youtube tutorial](https://youtu.be/dmM83DhzE98). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
 ## Setup
 
